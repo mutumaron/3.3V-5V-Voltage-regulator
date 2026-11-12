@@ -10,18 +10,19 @@ This project provides a stable power foundation for microcontrollers (like the E
 🖼️ Board Views
 
 3D Render
-
-(Upload your 3D view PNG to GitHub, then change the filename below to match)
+![3D view of the PCB](model.png)
 
 
 Schematic
-
-(Upload your Schematic PNG to GitHub, then change the filename below to match)
+![Schematic view of the PCB](schematic.png)
 
 
 PCB Layout (Top & Bottom)
+![View of the PCB](pcb.png)
 
-(Upload your PCB layout PNG to GitHub, then change the filename below to match)
+F.Fabrication layer
+![3D view of the PCB](silk.png)
+
 
 
 🗂️ Files Included
